@@ -1,0 +1,4 @@
+attribute,HP Header,IP Header,LP Header,Condenser
+PSIG,850,170,50,-13.5
+deg F,825,440,300,110
+BTU/LB,1410,1237,1180,1109
